@@ -1,0 +1,12 @@
+train: C:\Users\Martin\Desktop\SP\evaluation\train
+val: C:\Users\Martin\Desktop\SP\evaluation\test
+
+nc: 1
+names: ['pistol']
+
+# roboflow:
+#   workspace: em2023
+#   project: gun-detection-s5poj
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/em2023/gun-detection-s5poj/dataset/1
